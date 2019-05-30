@@ -1,0 +1,16 @@
+# Adapted from Phaser 3 .gitignore.
+
+# System and IDE files
+Thumbs.db
+.DS_Store
+.idea
+.vscode
+*.suo
+*.sublime-project
+*.sublime-workspace
+
+# Vendors
+node_modules/
+
+# Assets
+assets/source/
