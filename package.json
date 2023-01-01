@@ -10,9 +10,9 @@
   },
   "author": "",
   "devDependencies": {
-    "ts-loader": "^6.0.1",
+    "ts-loader": "^9.4.2",
     "tslint": "^5.16.0",
     "typescript": "^3.5.1",
-    "webpack": "^4.32.2"
+    "webpack": "^5.75.0"
   }
 }
